@@ -7,7 +7,7 @@
 
 | Giao diện Menu Chính | Trải nghiệm Gameplay | Giao diện Kết thúc (Game Over) |
 |:---:|:---:|:---:|
-| <img width="394" height="700" alt="menu" src="https://github.com/user-attachments/assets/6d9d81d2-79ed-4866-89e0-27121925a3e5" /> | <img width="395" height="702" alt="gameplay" src="https://github.com/user-attachments/assets/6b6291f9-b5fa-4d2f-b52b-6180a2508bab" /> | <img width="394" height="703" alt="Gameover" src="https://github.com/user-attachments/assets/020439a2-920b-433f-908b-f61a93d44070" /> |
+| <img width="394" height="700" alt="menu" src="https://github.com/user-attachments/assets/6d9d81d2-79ed-4866-89e0-27121925a3e5" /> | <img width="394" height="700" alt="gameplay" src="https://github.com/user-attachments/assets/6b6291f9-b5fa-4d2f-b52b-6180a2508bab" /> | <img width="394" height="700" alt="Gameover" src="https://github.com/user-attachments/assets/020439a2-920b-433f-908b-f61a93d44070" /> |
 | **Menu:** Bắt đầu, Đánh giá và Chia sẻ | **Play:** Hứng Pizza và theo dõi Mạng sống | **Over:** Hiển thị Điểm số & Kỷ lục |
 
 ---
